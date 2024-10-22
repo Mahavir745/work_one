@@ -309,9 +309,9 @@ main{
 
 /** footer part start */
 footer{
-  width: 1905px;
 
   .footer_container{
+  width: 1905px;
     .child1{
       height: 395px;
       padding: 100px 40px;
